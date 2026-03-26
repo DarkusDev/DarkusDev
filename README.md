@@ -151,7 +151,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 🕹️ GAME 1 -->
 <td align="center" width="33%">
-<h3>🌙 The Walk</h3>
+<h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/TheWalkLogo.png" width="28" alt="The Walk"/> The Walk</h3>
 <p><em>2021</em></p>
 <p>Short horror game (Demo)</p>
 <p>
@@ -165,7 +165,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 🕹️ GAME 2 -->
 <td align="center" width="33%">
-<h3>💤 The Last Dream</h3>
+<h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/TheLastDreamLogo.png" width="28" alt="The Last Dream"/> The Last Dream</h3>
 <p><em>2021</em></p>
 <p>Adventure game</p>
 <p>
@@ -179,7 +179,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 🕹️ GAME 3 -->
 <td align="center" width="33%">
-<h3>🔦 No Lights</h3>
+<h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/NoLightsLogo.png" width="28" alt="No Lights"/> No Lights</h3>
 <p><em>2021</em></p>
 <p>Adventure game</p>
 <p>
@@ -214,7 +214,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 🤝 COLLAB 1 -->
 <td align="center" width="50%">
-<h3>👁️ Not Alone?</h3>
+<h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/NotAloneLogo.png" width="28" alt="Not Alone?"/> Not Alone?</h3>
 <p>Collaborative horror project</p>
 <a href="https://elfenauge.itch.io/not-alone">
 <img src="https://img.shields.io/badge/🔗_View_on_Itch.io-4A90D9?style=for-the-badge" alt="View"/>
@@ -223,7 +223,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 🤝 COLLAB 2 -->
 <td align="center" width="50%">
-<h3>🔒 Closed For The Night</h3>
+<h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/ClosedForTheNightLogo.png" width="28" alt="Closed For The Night"/> Closed For The Night</h3>
 <p>Team-developed horror game</p>
 <a href="https://nrbgamesstudio.itch.io/closed-for-the-night">
 <img src="https://img.shields.io/badge/🔗_View_on_Itch.io-4A90D9?style=for-the-badge" alt="View"/>
