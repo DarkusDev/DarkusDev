@@ -89,7 +89,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 <!-- 📁 PROJECT 1 -->
 <td align="center" width="50%">
 <h3>🖥️ BasicUse</h3>
-<p><em>2024 / 2025</em></p>
+<p><em>2025 / 2026</em></p>
 <p>Monitor de hardware en tiempo real para escritorio: CPU, GPU, RAM, temperaturas, batería y más con interfaz compacta.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -152,7 +152,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 <!-- 🕹️ GAME 1 -->
 <td align="center" width="33%">
 <h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/TheWalkLogo.png" width="28" alt="The Walk"/> The Walk</h3>
-<p><em>2021</em></p>
+<p><em>2024</em></p>
 <p>Short horror game (Demo)</p>
 <p>
 <img src="https://img.shields.io/badge/Horror-8B0000?style=flat-square"/>
@@ -166,7 +166,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 <!-- 🕹️ GAME 2 -->
 <td align="center" width="33%">
 <h3><img src="https://raw.githubusercontent.com/DarkusDev/DarkusDev/main/assets/TheLastDreamLogo.png" width="28" alt="The Last Dream"/> The Last Dream</h3>
-<p><em>2021</em></p>
+<p><em>2022</em></p>
 <p>Adventure game</p>
 <p>
 <img src="https://img.shields.io/badge/Adventure-4B0082?style=flat-square"/>
