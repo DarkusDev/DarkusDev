@@ -30,11 +30,10 @@
 Me interesa crear software que resuelva problemas reales y que se mantenga limpio, documentado y fácil de evolucionar. Disfruto combinando práctica con estudio, y busco constantemente mejorar en herramientas, arquitectura y buenas prácticas.
 
 - 🎮 Desarrollo videojuegos y prototipos de forma iterativa
-- 🖥️ Creo aplicaciones de escritorio y herramientas con **Python**
+- 🖥️ Creo aplicaciones de escritorio y herramientas con **Java**
 - 🌐 Desarrollo web con **React**, **Vite** y **TypeScript**
 - ☕ Proyectos académicos y personales en **Java**
 - 🔄 Mi filosofía: **prototipo → feedback → mejora**
-- 📖 Estudiante de **Bachillerato en Ciencias y Tecnología** — IES Complutense
 
 ---
 
