@@ -267,7 +267,8 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 ## 🎓 Education
 
-- 📖 **Bachillerato en Ciencias y Tecnología** — IES Complutense *(en curso)*
+- 📖 **Bachillerato en Ciencias y Tecnología** — IES Complutense *(Completado)*
+- 📖 **Grado Superior Desarrollo de Aplicaciones Multiplataforma (DAM)** — IES Avellaneda *(Cursando)*
 
 <!-- ➕ ADD NEW EDUCATION: copy the line above and edit -->
 
@@ -292,5 +293,5 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 ---
 
 <div align="center">
-<sub>© 2025 GameFolio — Darius Antonio Puiu</sub>
+<sub>© 2025 Professional Portfolio — Darius Antonio Puiu</sub>
 </div>
