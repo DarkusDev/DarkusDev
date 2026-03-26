@@ -8,7 +8,7 @@
 
 # Hey, I'm Darius 👋
 
-### Desarrollador de Software · Game Developer · Unity & Python
+### Desarrollador de Software · Game Developer · Unity & Java
 
 <br/>
 
