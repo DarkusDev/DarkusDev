@@ -118,19 +118,6 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 </tr>
 <tr>
 
-<!-- 📁 PROJECT 3 -->
-<td align="center" width="50%">
-<h3>☕ JavaCheater</h3>
-<p><em>2024 / 2025</em></p>
-<p>Proyecto Java enfocado en entornos de desarrollo.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-<a href="https://github.com/DarkusDev/JavaCheater">
-<img src="https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-</td>
-
 <!-- 📁 PROJECT 4 -->
 <td align="center" width="50%">
 <h3>📚 Proyectos de Clase</h3>
