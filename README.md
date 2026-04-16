@@ -31,7 +31,6 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 - 🎮 Desarrollo videojuegos y prototipos de forma iterativa
 - 🖥️ Creo aplicaciones de escritorio y herramientas con **Java**
-- 🌐 Desarrollo web con **React**, **Vite** y **TypeScript**
 - ☕ Proyectos académicos y personales en **Java**
 - 🔄 Mi filosofía: **prototipo → feedback → mejora**
 
@@ -48,19 +47,14 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 **Lenguajes**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 <!-- ➕ ADD NEW LANGUAGE: copy a badge line above -->
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <!-- ➕ ADD NEW FRONTEND TECH: copy a badge line above -->
 
 **Herramientas**
@@ -68,7 +62,6 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <!-- ➕ ADD NEW TOOL: copy a badge line above -->
 
 </div>
