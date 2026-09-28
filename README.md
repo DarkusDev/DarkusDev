@@ -78,24 +78,6 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 <div align="center">
 <table>
 <tr>
-
-<!-- 📁 PROJECT 1 -->
-<td align="center" width="50%">
-<h3>🎌 AniVerse</h3>
-<p><em>2025</em></p>
-<p>Aplicación temática de anime. Proyecto personal de frontend.</p>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Frontend-FF6B6B?style=flat-square"/>
-</p>
-<a href="https://github.com/DarkusDev/AniVerse">
-<img src="https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-</td>
-
-</tr>
-<tr>
--->
   
 <!-- 📁 PROJECT 2 -->
 <td align="center" width="50%">
