@@ -73,7 +73,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 <!-- To add a new project: copy a <td> block below      -->
 <!-- ================================================== -->
 
-## 💻 Software Projects
+<!-- ## 💻 Software Projects
 
 <div align="center">
 <table>
@@ -95,7 +95,8 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 </tr>
 <tr>
-
+-->
+  
 <!-- 📁 PROJECT 2 -->
 <td align="center" width="50%">
 <h3>📚 Proyectos de Clase</h3>
