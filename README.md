@@ -81,20 +81,6 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 <!-- 📁 PROJECT 1 -->
 <td align="center" width="50%">
-<h3>🖥️ BasicUse</h3>
-<p><em>2025 / 2026</em></p>
-<p>Monitor de hardware en tiempo real para escritorio: CPU, GPU, RAM, temperaturas, batería y más con interfaz compacta.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-</p>
-<a href="https://github.com/DarkusDev/BasicUse">
-<img src="https://img.shields.io/badge/📂_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-</td>
-
-<!-- 📁 PROJECT 2 -->
-<td align="center" width="50%">
 <h3>🎌 AniVerse</h3>
 <p><em>2025</em></p>
 <p>Aplicación temática de anime. Proyecto personal de frontend.</p>
@@ -110,7 +96,7 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 </tr>
 <tr>
 
-<!-- 📁 PROJECT 4 -->
+<!-- 📁 PROJECT 2 -->
 <td align="center" width="50%">
 <h3>📚 Proyectos de Clase</h3>
 <p><em>2025 / 2026</em></p>
@@ -259,8 +245,9 @@ Me interesa crear software que resuelva problemas reales y que se mantenga limpi
 
 ## 🎓 Education
 
-- 📖 **Bachillerato en Ciencias y Tecnología** — IES Complutense *(Completado)*
 - 📖 **Grado Superior Desarrollo de Aplicaciones Multiplataforma (DAM)** — IES Avellaneda *(Cursando)*
+- 📖 **Bachillerato en Ciencias y Tecnología** — IES Complutense *(Completado)*
+
 
 <!-- ➕ ADD NEW EDUCATION: copy the line above and edit -->
 
